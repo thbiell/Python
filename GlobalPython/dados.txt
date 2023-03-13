@@ -1,0 +1,21 @@
+Digite o ano a ser comparado:2020
+Total de habitantes: - 211755692
+Total de óbitos: - 33497
+Taxa por 100k habitantes – 2020: 15.82
+Taxa por 100k habitantes – 2019: 15
+Comparativo % entre 2020-2019: 5.46%
+------------------------------------------
+Digite o ano a ser comparado:2021
+Total de habitantes: - 213317639
+Total de óbitos: - 31468
+Taxa por 100k habitantes – 2021: 14.75
+Taxa por 100k habitantes – 2019: 15
+Comparativo % entre 2021-2019: -1.66%
+------------------------------------------
+Até o momento:
+Digite o ano a ser comparado:2022
+Total de habitantes: - 215301301
+Total de óbitos: - ?
+Taxa por 100k habitantes – 2022: ?
+Taxa por 100k habitantes – 2019: 15
+Comparativo % entre 2022-2019: -?%
